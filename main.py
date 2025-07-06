@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-LexAI Justice - Complete Legal AI Assistant
-Single comprehensive application with stunning UI and full backend integration
-"""
-config = {
-    "astra_token": os.getenv("ASTRA_TOKEN"),
-    "database_id": os.getenv("DATABASE_ID"),
-    "keyspace": os.getenv("KEYSPACE"),
-    "table_name": os.getenv("TABLE_NAME"),
-    "nvidia_api_key": os.getenv("NVIDIA_API_KEY")
-}
+
 import streamlit as st
 import time
 import json
