@@ -42,6 +42,10 @@ A comprehensive Streamlit-based legal AI assistant with advanced features includ
 - **Cache Management**: Manual cache clearing and model reloading
 - **Resource Monitoring**: Memory and CPU usage tracking
 
+## ScreenShots
+![Screenshot 2025-07-06 213109](https://github.com/user-attachments/assets/7117a45c-0dee-40f0-bbe1-fa82190c9d27)
+## Demo
+- visit : https://www.linkedin.com/in/abhinav-sunil-870184279/ 
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -162,12 +166,8 @@ lsof -i :8501  # Linux/Mac
 ```
 LegalAI/
 ├── main.py                 # Main application file
-├── run.py                  # Launcher script
 ├── config.json             # Configuration file
 ├── requirements.txt        # Dependencies
-├── test_caching.py         # Caching test script
-├── data/                   # Legal documents
-├── assets/                 # UI assets and themes
 └── README.md              # This file
 ```
 
